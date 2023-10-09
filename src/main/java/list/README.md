@@ -44,8 +44,6 @@ Exercícios:
 - `exibirItens()`: Exibe todos os itens presentes no carrinho, mostrando seus nomes, preços e quantidades.
 </p>
 
-----
-
 ## Pesquisa em List
 
 
@@ -58,8 +56,6 @@ Exercícios:
 - `encontrarMaiorNumero()`: Encontra o maior número na lista e retorna o valor.
 - `encontrarMenorNumero()`: Encontra o menor número na lista e retorna o valor.
 - `exibirNumeros()`: Retorna uma lista contendo todos os números presentes na lista.
-
--------
 
 ## Ordenação em List
 
